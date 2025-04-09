@@ -7,7 +7,7 @@ require_once 'header.php';
 <main>
     <section class="content">
      <p>動物名：<?php echo $animal; ?></p>
-     <p><a href="index.php"></p>
+     <p><a href="index.php">戻る</a></p>
   </section>
   </main>
   <?php
